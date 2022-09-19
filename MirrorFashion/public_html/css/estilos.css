@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/09/2022, 21:13:48
+    Author     : wslou
+*/
+
+.sacola{
+    background-image: url(../img/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px
+}
+.menu-opcoes ul{
+    font-size: 15px
+}
+.menu-opcoes a{
+    color: #003366
+}
+
+.painel{
+    margin: 10px 0;
+    padding: 10px;
+    width: 445px;
+}
+
+.novidades{
+    float: left;
+}
+.mais-vendidos{
+    float: right;
+}
+
+.painel li{
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+}
